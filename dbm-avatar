@@ -1,0 +1,1 @@
+{"name":"avatar","permissions":"NONE","restriction":"1","actions":[{"member":"0","varName":"","storage":"1","varName2":"userimg","name":"Create Image from Avatar"},{"storage":"1","varName":"userimg","width":"500","height":"500","name":"Resize Image"},{"storage":"1","varName":"userimg","channel":"0","varName2":"","message":"","name":"Send Image"}]}
